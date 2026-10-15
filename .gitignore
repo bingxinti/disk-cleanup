@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+delete-log.txt
+.DS_Store
